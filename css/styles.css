@@ -26,6 +26,21 @@ h3{
   color: #11999E;
 }
 
+.m0{
+  position: absolute;
+  right: 50px;
+}
+
+.m1{
+  position: absolute;
+  left: 50px;
+}
+
+.m2{
+  position: absolute;
+  right: 50px;
+}
+
 a{
   color: #11999E;
   font-family: "Montserrat", sans-serif;
@@ -118,7 +133,7 @@ hr{
 .bottom-cloud{
   position: absolute;
   left: 250px;
-  bottom:300px;
+  bottom:350px;
 }
 
 .btn {
